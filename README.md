@@ -36,7 +36,7 @@ Country: **France**
 Registration: **public**  
 Researchers: **~750**  
 Programs: **?**  
-Visibility: **public, private**  
+Visibility: **public, private, confidential, private, vetted**  
 Public disclosure: **no**  
 Reputation: **based on reports status, rewards and reports quality**  
 Additional metrics: **no**  
@@ -50,7 +50,7 @@ Country: **France**
 Registration: **test required**  
 Researchers: **~150**  
 Programs: **?**  
-Visibility: **public, private**  
+Visibility: **private**  
 Public disclosure: **no**  
 Reputation: **?**  
 Additional metrics: **reports quality**  
